@@ -3,6 +3,12 @@
   "description": "MinderTech",
   "keywords": ["laravel", "mindertech", "tool"],
   "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Liu",
+            "email": "alex.liu@mindertech.co.uk"
+        }
+    ],
   "require": {
     "php": "^7.2",
     "laravel/framework": "^5.0|^6.0|^7.0",
