@@ -1,6 +1,8 @@
 {
   "name": "mindertech/common",
   "description": "MinderTech",
+  "keywords": ["laravel", "mindertech", "tool"],
+  "license": "MIT",
   "require": {
     "php": "^7.2",
     "laravel/framework": "^5.0|^6.0|^7.0",
