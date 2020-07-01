@@ -1,0 +1,14 @@
+{
+  "name": "mindertech/common",
+  "description": "MinderTech",
+  "require": {
+    "php": "^7.2",
+    "laravel/framework": "^5.0|^6.0|^7.0",
+    "stomp-php/stomp-php": "^4.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "MinderTech\\": "src/"
+    }
+  }
+}
